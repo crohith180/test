@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://staging-stack-crp-5084.riskprofiler.io/Login",
+    
+    "env":{
+         "username": "admin@ethicalhat.com",
+         "password": "*9GM@HYkh34qDnFHFeS@"
+     }
+}
